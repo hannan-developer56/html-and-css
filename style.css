@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(14, 32, 44);
+}
+h1{
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.list{
+    margin-top: 45px;
+    color: rgba(235, 235, 234, 0.932);
+    text-align: center;
+}
+.headingtwo{
+    background-color: black;
+    color:gold ;
+    font-family: 'Courier New', Courier, monospace;
+}
+.parent{
+    color: aliceblue;
+}
+.heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    color: yellow;
+}
+.btn{
+    color: coral;
+    background-color:rgb(14, 32, 44);
+    font-style: oblique;
+}
+input{
+    color: chocolate;
+}
+.table{
+    color: white;
+}
+.headings{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin-left: 33em;
+}
